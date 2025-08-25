@@ -4,6 +4,6 @@ setuptools>=80.0
 wheel
 
 streamlit==1.36.0
-scikit-learn==1.5.1
+scikit-learn==1.5.2
 nltk==3.9.1
 numpy==2.1.2
