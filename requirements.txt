@@ -1,10 +1,9 @@
-pip>=24.2
-setuptools>=68.0
+--only-binary=:all:
+pip>=25.1.1
+setuptools>=80.0
 wheel
 
 streamlit==1.36.0
 scikit-learn==1.5.1
 nltk==3.9.1
 numpy==2.1.2
-pandas==2.2.2
-matplotlib==3.9.2
